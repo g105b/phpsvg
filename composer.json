@@ -1,8 +1,8 @@
 {
 	"name": "g105b/phpsvg",
-	"description": "SVG library aimed at compatibility with CanvasRenderingContext2D API",
+	"description": "SVG library aimed at compatibility with HTML5 CanvasRenderingContext2D API",
 	"type": "library",
-	"keywords": ["svg", "canvas", "api", "draw"],
+	"keywords": ["svg", "canvas", "api", "draw", "html5"],
 	"license": "MIT",
 	"prefer-stable": true,
 	"autoload": {
